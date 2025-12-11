@@ -7,6 +7,15 @@
 
 A machine learning project completed during my **Data Analytics Internship at Codveda**, predicting median house prices in Boston using regression models.
 
+# Requirements
+
+* pandas==2.1.0
+* numpy==1.25.0
+* matplotlib==3.7.2
+* seaborn==0.12.2
+* scikit-learn==1.3.0
+* jupyter==1.0.0
+
 ---
 
 ## 🎯 Objective
