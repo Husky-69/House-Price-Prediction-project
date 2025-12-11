@@ -64,8 +64,8 @@ Predict house prices (`MEDV`) based on 13 features like crime rate, average room
 
 | Model               | R² Score | RMSE    |
 |---------------------|----------|---------|
-| Linear Regression   | ~0.74    | ~4.7    |
-| Random Forest       | **~0.92**| **~2.8**|
+| Linear Regression   | ~0.66    | ~4.9    |
+| Random Forest       | **~0.89**| **~2.8**|
 
 > ✅ Random Forest significantly outperforms linear regression, capturing non-linear relationships.
 
